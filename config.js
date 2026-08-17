@@ -1,3 +1,3 @@
 
-console.log("config file updated");
-console.log("version 11");
+console.log("version 1.0.0");
+console.log("version 1.2.0");
